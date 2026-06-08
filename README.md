@@ -1,2 +1,2 @@
-# my-first-repository
-GitHub 学习仓库
+# my-repository
+GitHub 仓库
